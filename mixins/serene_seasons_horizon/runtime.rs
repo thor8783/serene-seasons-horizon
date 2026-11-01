@@ -1,6 +1,6 @@
 pub const ID: &str = "serene_seasons_horizon";
 pub const NAME: &str = "Serene Seasons: Horizon";
-pub const VERSION: &str = "0.1.0";
+pub const VERSION: &str = "0.2.0";
 pub const DESCRIPTION: &str = "A configurable four-season calendar with sub-seasons.";
 
 #[derive(Clone, Copy, Debug, PartialEq, Eq)]

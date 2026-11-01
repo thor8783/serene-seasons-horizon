@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:paper",
+    "minecraft:clock"
+  ],
+  "result": {
+    "id": "minecraft:clock",
+    "count": 1,
+    "components": {
+      "minecraft:custom_name": "{\"text\":\"Season Calendar\",\"italic\":false}",
+      "minecraft:custom_data": {
+        "serene_seasons_calendar": 1
+      }
+    }
+  }
+}
