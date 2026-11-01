@@ -1,0 +1,10 @@
+[package]
+name = "serene-seasons-horizon"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+publish = false
+description = "Independent Horizon native seasons and calendar mod."
+
+[lib]
+path = "mixins/serene_seasons_horizon/runtime.rs"
